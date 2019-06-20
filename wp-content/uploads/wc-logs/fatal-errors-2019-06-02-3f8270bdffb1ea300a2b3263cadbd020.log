@@ -1,0 +1,4 @@
+2019-06-02T05:29:46+00:00 CRITICAL syntax error, unexpected 'text' (T_STRING) in /var/www/html/photography/wp-content/themes/photograph-child/functions.php on line 162
+
+2019-06-02T05:37:19+00:00 CRITICAL syntax error, unexpected ';' in /var/www/html/photography/wp-content/themes/photograph-child/functions.php on line 70
+

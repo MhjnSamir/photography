@@ -1,0 +1,2 @@
+2019-05-29T09:56:09+00:00 CRITICAL Trait 'Dokan\Traits\Singleton' not found in /var/www/html/photography/wp-content/plugins/dokan-pro/includes/modules/subscription/includes/classes/Helper.php on line 13
+

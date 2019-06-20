@@ -16,4 +16,19 @@ All files, unless otherwise stated, are released under the GNU General Public Li
 version 3.0 (http://www.gnu.org/licenses/gpl-3.0.html)
 ==================================================
 */
+.page-numbers.current{
+	background-color: #484848;
+    color: #fff;
+}
+.insta-gallery{
+    background-color: #f4f4f4;
+    padding: 15px 30px 15px;
+    position: relative;
+    overflow: hidden;
+    margin: 50px 0;
+    color: #343434;
+    font-size: 24px;
+    line-height: 1.333;
+}
 
+}
